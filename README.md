@@ -1,3 +1,2 @@
 # hello-world
-Just tested repository
-And it's my first repository
+Just tested repository, and it's my first repository.
